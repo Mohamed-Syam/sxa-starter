@@ -21,6 +21,7 @@ export const Default = (props: TitleAndTextProps): JSX.Element => {
         <Text field={props.fields.Text} />
       </div>
     </div>
+	
   );
 };
 

@@ -11,7 +11,6 @@ export type TitleAndTextProps = {
   fields: Fields;
 };
 
-
 export const Default = (props: TitleAndTextProps): JSX.Element => {
   return (
     <div className="container-default">
@@ -24,4 +23,3 @@ export const Default = (props: TitleAndTextProps): JSX.Element => {
     </div> 
   );
 };
-

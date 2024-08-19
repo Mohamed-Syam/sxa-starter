@@ -20,6 +20,7 @@ export const Default = (props: TitleAndTextProps): JSX.Element => {
       <div className="component text row">
         <Text field={props.fields.Text} />
       </div>
-    </div> 
+    </div>
   );
 };
+

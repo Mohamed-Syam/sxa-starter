@@ -23,3 +23,4 @@ export const Default = (props: TitleAndTextProps): JSX.Element => {
     </div>
   );
 };
+
